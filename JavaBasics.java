@@ -1,5 +1,12 @@
+// Java Boilerplate code
+
+
 public class JavaBasics {
     public static void main(String[] args) {
-        System.out.print("Hello Satyapal!");
+    int i = 4;
+    while (i > 0) {
+    System.out.println("*".repeat(i));
+    i--;
+        }
     }
 }
