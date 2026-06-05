@@ -1,4 +1,3 @@
-import java.util.*;
 
 public class TypeCasting {
     public static void main(String[] args) {
