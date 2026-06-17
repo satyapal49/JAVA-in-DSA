@@ -7,6 +7,6 @@ public class Practice5 {
         Scanner sc = new Scanner(System.in);
         int year = sc.nextInt();
         String result =  (year %4 == 0 && year % 100 != 0 || year % 400 == 0) ? "Leap Year" : "Not Leap Year";
-        System.out.println("The year " + year + " is " + result);
+        System.out.println("The " + year + " is " + result);
     }
 }
