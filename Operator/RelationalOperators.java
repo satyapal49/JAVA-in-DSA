@@ -1,3 +1,5 @@
+package Operator;
+
 public class RelationalOperators {
     public static void main(String[] args) {
         // Relational operators compare two values and return a boolean result.

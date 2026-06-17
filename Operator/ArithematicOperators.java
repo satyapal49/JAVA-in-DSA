@@ -1,3 +1,5 @@
+package Operator;
+
 public class ArithematicOperators {  // Class declaration
     public static void main(String[] args) {  // Main method - entry point of the program
         int a = 5;  // Declare and initialize variable a
