@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Else if Statement
+// This program checks if a person is an adult, teenager, or child based on their age using an if-else-if statement.
 public class ElseIf {
     public static void main(String[] args) {
         System.out.print("Enter age :");

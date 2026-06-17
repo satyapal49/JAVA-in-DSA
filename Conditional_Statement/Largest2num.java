@@ -1,7 +1,7 @@
 public class Largest2num {
     public static void main (String[] args){
 
-         // Print largest of 2 number
+         // This program finds the largest of two numbers using an if-else statement.
         int a = 4, b = 9;
         if (a>b){
             System.out.println("Largest :" + a);
